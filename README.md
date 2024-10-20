@@ -17,6 +17,13 @@ D. Norm Evolution focuses on how social norms change over time, adapting in resp
 E. Norm Impact assesses the effects of social norms on individual behavior and collective outcomes, such as cooperation, conflict, innovation, inequality, and societal development. This section also examines how enforcement mechanisms, such as laws and customs, contribute to or hinder the achievement of societal goals. The study of norm impact reveals the broader consequences of social norms in shaping both personal actions and societal trends.
 
 #
+### Social Norms
+
+Social norms are the unwritten rules and expectations that govern the behavior of individuals within a society or group. They are shared standards that dictate what is considered acceptable, appropriate, or typical in various social situations. Social norms are shaped by culture, tradition, and collective agreement, and they play a key role in maintaining social order by guiding people's actions and interactions. These norms can vary significantly between different societies, communities, and contexts, and are often reinforced through socialization, peer pressure, and cultural practices. When individuals adhere to social norms, they contribute to the smooth functioning of society, while deviating from these norms may lead to social disapproval or sanctions.
+
+Social norms operate at different levels, from everyday behaviors like greeting others, dressing appropriately, or following traffic laws, to deeper moral and ethical standards such as fairness, honesty, and respect for others. They can be either explicit, such as laws and regulations, or implicit, existing as informal understandings that people follow without conscious thought. Over time, social norms can evolve as societal values and priorities change, reflecting shifts in attitudes towards gender roles, technology, and social justice, among other things. Despite their fluidity, social norms remain central to shaping the collective identity of a group and influencing individual behavior within it.
+
+#
 ### Theory of Norms and Theory of Mind
 
 ‘Theory of Mind’ refers to the cognitive capacity to attribute mental states to self and others. Other names for the same capacity include “commonsense psychology,” “naïve psychology,” “folk psychology,” “mindreading” and “mentalizing.” Mental attributions are commonly made in both verbal and non-verbal forms. Virtually all language communities, it seems, have words or phrases to describe mental states, including perceptions, bodily feelings, emotional states, and propositional attitudes (beliefs, desires, hopes, and intentions). People engaged in social life have many thoughts and beliefs about others’ (and their own) mental states, even when they don’t verbalize them.
