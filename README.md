@@ -60,6 +60,8 @@ Sourceduty's creation of the "Theory of Norms" represents a comprehensive attemp
 [Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
 <br>
 [System Control Theory](https://github.com/sourceduty/System_Control_Theory)
+<br>
+[ANTI-](https://github.com/sourceduty/ANTI-)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
