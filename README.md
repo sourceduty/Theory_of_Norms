@@ -24,7 +24,7 @@ Social norms are the unwritten rules and expectations that govern the behavior o
 Social norms operate at different levels, from everyday behaviors like greeting others, dressing appropriately, or following traffic laws, to deeper moral and ethical standards such as fairness, honesty, and respect for others. They can be either explicit, such as laws and regulations, or implicit, existing as informal understandings that people follow without conscious thought. Over time, social norms can evolve as societal values and priorities change, reflecting shifts in attitudes towards gender roles, technology, and social justice, among other things. Despite their fluidity, social norms remain central to shaping the collective identity of a group and influencing individual behavior within it.
 
 #
-### Social Enforecement
+### Social Enforcement
 
 Social norms are regulated, upheld, and maintained through a combination of socialization, enforcement mechanisms, and social feedback. From a young age, individuals are taught the norms of their society through socialization processes, which include family upbringing, education, peer interactions, and exposure to media and culture. This early learning shapes a person’s understanding of acceptable behavior and instills values that align with societal expectations. As people interact within their community, they are continually reminded of these norms through their social environments. Peer pressure, conformity, and the desire for social acceptance all serve as powerful forces that encourage individuals to follow established norms.
 
