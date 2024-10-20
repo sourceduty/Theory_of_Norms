@@ -38,6 +38,11 @@ This theory is different from other frameworks because it focuses on the externa
 Sourceduty's creation of the "Theory of Norms" represents a comprehensive attempt to synthesize various perspectives on how norms shape behavior within societies. Drawing from disciplines like sociology, psychology, and game theory, Sourceduty sought to unify these approaches into a cohesive framework that explains the formation, evolution, and enforcement of norms. The theory emphasizes the role of social actors, institutions, and external forces in defining acceptable behavior, while also exploring how individuals internalize and react to these societal expectations. By integrating insights from multiple fields, Sourceduty's work offers a broad understanding of norms as both informal and formal rules that guide human interactions and maintain social order.
 
 #
+### Custom GPT
+
+[Theory of Norms](https://chatgpt.com/g/g-rgaEGGwMK-theory-of-norms) is designed to explore how social norms form, evolve, and influence individual and group behavior in various social contexts. Drawing insights from sociology, psychology, anthropology, economics, and political science, it provides a structured framework to understand the role of norms in shaping both personal actions and collective outcomes. The GPT also integrates the Theory of Mind, which focuses on how individuals attribute mental states to themselves and others, to show how internal cognitive processes interact with external social norms. Its primary aim is to offer insights into norm formation, transmission, influence, and evolution, helping users understand and address social issues like cooperation, inequality, and societal development.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
