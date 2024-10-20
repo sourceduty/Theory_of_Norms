@@ -64,6 +64,8 @@ Sourceduty's creation of the "Theory of Norms" represents a comprehensive attemp
 [ANTI-](https://github.com/sourceduty/ANTI-)
 <br>
 [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
+<br>
+[Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
