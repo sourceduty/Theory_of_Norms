@@ -1,4 +1,4 @@
-![Theory of Norms](https://github.com/user-attachments/assets/7b4ab883-7dc7-475d-8754-03bea750dbb4)
+![Theory of Norms](https://github.com/user-attachments/assets/ad929155-6e4a-4105-b486-7160232c6d4f)
 
 > How social norms are formed, transmitted, and influence individual behavior in various social contexts.
 
